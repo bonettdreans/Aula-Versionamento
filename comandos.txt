@@ -1,0 +1,201 @@
+    1  ls
+    2  cd Certificados/
+    3  ls
+    4  mv doc.pdf doc1.pdf
+    5  ls
+    6  cd ..
+    7  dir
+    8  ls
+    9  cd
+   10  cd Estudos
+   11  cd Estudos/
+   12  ls
+   13  cd Pictures/
+   14  ls
+   15  mv arquivo.txt
+   16  acho mensagem
+   17  echo menagem
+   18  echo mensagem
+   19  echo "Meus sentimentos sõa puros e sinceros"
+   20  ..
+   21  cd ..
+   22  cd
+   23  ls
+   24  cd OneDrive/
+   25  ls
+   26  cd 'Are'
+   27  cd 'Area de Trabalho'
+   28  cd 'Area de Trabalho'/
+   29  ls
+   30  cd 'Area de Trabalho'/
+   31  cd Documentos/
+   32  ls
+   33  git config --global user.name "Severino Armando"
+   34  git config --global user.email johndoe@example.com
+   35  git config --global user.email johndoe@example.com
+   36  git config --global user.email johndoe@example.com
+   37  git config --global user.email severinoarmando3@gmail
+   38  git config --global user.name "stenene"
+   39  git config --global user.email yuristan7@gmail.com
+   40  git config --list
+   41  git clone https://github.com/stenene/Curso_Desenvolvimento_Webe.git
+   42  ls
+   43  cd Curso_Desenvolvimento_Webe/
+   44  exit
+   45  git config --global user.name 'SeverinoArmando'
+   46  git config user.name
+   47  git config --global user.email 'severinoarmando3@gmail.com'
+   48  git config user.name user.email
+   49  git config user.name user.email
+   50  git config user.name and user.email
+   51  git config user.name ^ user.email
+   52  git config user.email
+   53  CLEAR
+   54  clear
+   55  ls
+   56  cd Documents/
+   57  ls
+   58  cd ..
+   59  cd Meus\ Documentos/
+   60  ls
+   61  cd /c/Users/marta/OneDrive/Documentos/CURSO_TOTTI_STAN
+   62  git clone https://github.com/eng-flores/exercicio-colaborativo.git
+   63  git branch
+   64  ls
+   65  cd exercicio-colaborativo/
+   66  git branch
+   67  git status
+   68  history
+   69  ls
+   70  cd Documents/
+   71  ls
+   72  exit
+   73  ls
+   74  cd Desktop/
+   75  ls
+   76  ls
+   77  ls
+   78  restart
+   79  exit
+   80  ls
+   81  cd Desktop/
+   82  ls
+   83  dir
+   84  ls
+   85  cd ..
+   86  cd Videos/
+   87  ls
+   88  cd ..
+   89  ls
+   90  cd OneDrive/
+   91  ls
+   92  cd desktop.ini 
+   93  ls
+   94  cd Documentos/
+   95  LS
+   96  ls
+   97  power
+   98  cd Power\ BI\ Desktop/
+   99  ls
+  100  cd Custom\ Connectors/
+  101  ls
+  102  cd ..
+  103  cd ..
+  104  cd ..
+  105  cd ..
+  106  la
+  107  l
+  108  li
+  109  le
+  110  du
+  111  explorer
+  112  chroot.exe 
+  113  ls
+  114  cd Desktop/
+  115  ls
+  116  ls
+  117  dir
+  118  ls
+  119  exit
+  120  cd /c/Users/marta/OneDrive/Documentos/CURSO_TOTTI_STAN/JavaScript
+  121  git init
+  122  git branch -m master main
+  123  git remote add origin /c/Users/marta/OneDrive/Documentos/CURSO_TOTTI_STAN/JavaScript
+  124  git add .
+  125  git push commit -m "Exercício"
+  126  git commit -m "Exercício"
+  127  git push origin main
+  128  git status
+  129  git log
+  130  git push origin main
+  131  git clone /c/Users/marta/OneDrive/Documentos/CURSO_TOTTI_STAN/JavaScript
+  132  ls
+  133  cd JavaScript/
+  134  git status
+  135  cd '/c/Users/marta/OneDrive/Imagens/Nova pasta'
+  136  git clone '/c/Users/marta/OneDrive/Imagens/Nova pasta'
+  137  git clone git@github.com:SeverinoArmando/JavaScript.git
+  138  cd /c/Users/marta/OneDrive/Imagens
+  139  git clone git@github.com:SeverinoArmando/JavaScript.git
+  140  git user.name
+  141  git config user.name
+  142  git config user.email
+  143  ls/ssh
+  144  cd /c/Users/marta/OneDrive/Documentos/CURSO_TOTTI_STAN
+  145  ls
+  146  mv elenco.json elenco.txt
+  147  mv diretor.json diretor.txt
+  148  mv personagens.json personagens.txt
+  149  mv filmes.json filmes.txt
+  150  ls
+  151  cd Documents/
+  152  ls
+  153  cat
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd Bluetooth/
+  158  ls
+  159  ps
+  160  uax
+  161  exit
+  162  git init
+  163  ls
+  164  cd
+  165  cd
+  166  cd .git
+  167  cd ./.git
+  168  cd ./.git
+  169  code .
+  170  code .
+  171  cd
+  172  git init
+  173  git add .
+  174  git status 
+  175  git commit -m "adicionei ola toti"
+  176  git add .
+  177  git commit -m "adicionei turma 13"
+  178  git log 
+  179  git checkout 502422c89b8afc9b4c8a81064f4d29fa4b68f148
+  180  git checkout  21af9bd3793228bfd53fe8fb2d3c0d41bc9008ed
+  181  git branch teste 
+  182  git checkout teste 
+  183  clear
+  184  git add .
+  185  git commit -m "criei arquivo exemplo.js"
+  186  git checkout master 
+  187  git checkout teste 
+  188  git checkout master
+  189  git merge teste
+  190  git branch -d teste 
+  191  git branch 
+  192  git branch -M main
+  193  git branch testando
+  194  git checkout testando
+  195  git branch 
+  196  git add .
+  197  git commit -m "fiz algumas mudanças"
+  198  git checkout main 
+  199  git checkout testando 
+  200  history
+  201  history > comandos.txt
