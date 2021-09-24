@@ -1,3 +1,7 @@
 console.log("Turma neon")
 console.log ("Praticando")
 console.log ("Praticando2")
+console.log ("vasMuyBien")
+console.log ("ContinuaAsi")
+console.log ("Muchas Gracias")
+console.log ("vamos avanzando")
